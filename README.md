@@ -21,6 +21,10 @@ To show the information gathered by PlexNowPlaying in your OBS scene, add a "Bro
 
 Because PlexNowPlaying refreshes on a 5 second timer, it may take 5 seconds for the information to show up at first.
 
+## Intergrating with XSplit
+
+Unfortunately I don't use or XSplit, so I don't have anything to write here. If you've managed to get PlexNowPlaying working with XSplit and it requires some specific directions, please let me know.
+
 ## Changes and Usage
 
 Feel free to raise Pull Requests/Issues if you want to ask about a feature or suggest a change.
