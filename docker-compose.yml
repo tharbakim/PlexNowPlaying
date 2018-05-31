@@ -6,13 +6,7 @@ services:
       - "./html:/var/www/html"
     ports:
       - "3008:80"
-    networks:
-      - nginx-proxy
     environment:
       - PLEX_SERVER=
       - MACHINE_IDENTIFIER=
 
-networks:
-  nginx-proxy:
-    external:
-      name: nginxproxy_default
