@@ -1,3 +1,5 @@
+# This is no longer functional. Too many API changes, too little time.
+
 # PlexNowPlaying
 A simple docker container used for grabbing the currently playing song and displaying the title informaton as a webpage (to be grabbed like programs such as Open Broadcaster Software)
 
